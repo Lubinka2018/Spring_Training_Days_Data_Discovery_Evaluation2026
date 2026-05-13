@@ -1,10 +1,15 @@
 
-[← Terug naar start]({{ site.baseurl }}/)
+[← Back to start](/Spring_Training_Days_Data_Discovery_Evaluation2026/)
 
-# Opdracht 2
+# Exercise 2
 
-1. Formuleer je zoekstrategie: trefwoorden, filters, etc.
-   
-3. Voer uit je zoekstrategie en selecteer relevante dataset(s)
-   
-5. Documenteer je zoekstrategie en je selectie
+## Evaluate a dataset for usability​
+
+1. FAIR principles ​
+
+2. Data quality ​
+
+3. Can the datasets be combined if you want to publish your own
+dataset under a CC BY license?​
+
+4. Cite your dataset
