@@ -52,7 +52,7 @@ After completing the workshop, you will not only be able to make better-informed
 
   <!-- Assignments Links -->
   <div style="flex: 1;">
-    <h2>Assignments</h2>
+    <h2>Exercises</h2>
     <ul>
       <li><a href="Opdracht1">Exercise 1</a></li>
       <li><a href="Opdracht2">Exercise 2</a></li>
