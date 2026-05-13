@@ -50,47 +50,49 @@ After completing the workshop, you will not only be able to make better-informed
   </table>
 </div>
 
-  <!-- Opdrachten Links -->
-  <div style="flex: 1;">
-    <h2>Opdrachten</h2>
+ <!-- Assignments Links -->
+<div style="flex: 1;">
+  <h2>Assignments</h2>
+  <ul>
+    <li><a href="Opdracht1">Assignment 1</a></li>
+    <li><a href="Opdracht2">Assignment 2</a></li>
+    <li><a href="Opdracht3">Assignment 3</a></li>
+  </ul>
+
+  <div style="margin-top: 1.5em;">
+    <h2>Sources</h2>
     <ul>
-      <li><a href="Opdracht1">Opdracht 1</a></li>
-      <li><a href="Opdracht2">Opdracht 2</a></li>
-      <li><a href="Opdracht3">Opdracht 3</a></li>
-   </ul>
-    <div style="margin-top: 1.5em;">
-      <h2>Bronnen</h2>
-      <ul>
-        <li><a href="Bronnen">Bronnen</a></li>
-      </ul>
-    </div>
+      <li><a href="Bronnen">Sources</a></li>
+    </ul>
   </div>
 </div>
 
-<!-- Gedragscode -->
+<!-- Code of Conduct -->
 <div style="margin-top: 3em;">
-  <h2>Gedragscode</h2>
-  <p>Van deelnemers wordt verwacht dat zij zich aan de volgende richtlijnen houden:</p>
+  <h2>Code of Conduct</h2>
+  <p>Participants are expected to follow the guidelines below:</p>
   <ul>
-    <li>Gebruik inclusieve taal</li>
-    <li>Wees respectvol tegenover verschillende standpunten en ervaringen</li>
-    <li>Accepteer constructieve kritiek op een prettige manier</li>
-    <li>Focus op wat het beste is voor alle deelnemers</li>
-    <li>Toon respect jegens andere deelnemers van de training</li>
-    <li>Wij tolereren geen enkele vorm van discriminatie, intimidatie of pesterij.</li>
+    <li>Use inclusive language</li>
+    <li>Be respectful of different perspectives and experiences</li>
+    <li>Accept constructive feedback in a positive way</li>
+    <li>Focus on what is best for all participants</li>
+    <li>Show respect towards other training participants</li>
+    <li>We do not tolerate any form of discrimination, harassment, or bullying.</li>
   </ul>
   <p>
-    Als je van mening bent dat een van deze richtlijnen is geschonden,
-    neem dan contact op met de organisatoren van de workshop!
+    If you believe any of these guidelines have been violated,
+    please contact the workshop organizers.
   </p>
 </div>
 
-<!-- Licentie -->
+<!-- License -->
 <div style="margin-top: 3em; font-size: 0.9rem; color: #555;">
   <p>
-    Dit project valt onder de 
+    This project is licensed under the
     <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">
-      <strong>Creative Commons Attribution 4.0-licentie</strong>
-     </a>
+      <strong>Creative Commons Attribution 4.0 License</strong>
+    </a>
+  </p>
+</div>
   </p>
 </div>
