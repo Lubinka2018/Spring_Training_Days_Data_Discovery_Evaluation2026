@@ -50,7 +50,7 @@ After completing the workshop, you will not only be able to make better-informed
   </table>
 </div>
 
- <!-- Assignments Links -->
+<!-- Assignments Links -->
 <div style="flex: 1;">
   <h2>Assignments</h2>
   <ul>
@@ -70,13 +70,13 @@ After completing the workshop, you will not only be able to make better-informed
 <!-- Code of Conduct -->
 <div style="margin-top: 3em;">
   <h2>Code of Conduct</h2>
-  <p>Participants are expected to follow the guidelines below:</p>
+  <p>Participants are expected to follow these guidelines:</p>
   <ul>
     <li>Use inclusive language</li>
-    <li>Be respectful of different perspectives and experiences</li>
+    <li>Be respectful toward different perspectives and experiences</li>
     <li>Accept constructive feedback in a positive way</li>
     <li>Focus on what is best for all participants</li>
-    <li>Show respect towards other training participants</li>
+    <li>Show respect toward other training participants</li>
     <li>We do not tolerate any form of discrimination, harassment, or bullying.</li>
   </ul>
   <p>
@@ -92,7 +92,5 @@ After completing the workshop, you will not only be able to make better-informed
     <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">
       <strong>Creative Commons Attribution 4.0 License</strong>
     </a>
-  </p>
-</div>
   </p>
 </div>
