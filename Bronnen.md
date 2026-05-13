@@ -40,7 +40,7 @@
 - <a href="https://www.openaire.eu/" target="_blank" rel="noopener noreferrer">OpenAIRE</a>
 - <a href="https://openalex.org/" target="_blank" rel="noopener noreferrer">OpenAlex</a>
 
-### Datatijdschriften  
+### Data journals
 - <a href="https://zenodo.org/records/7082126" target="_blank" rel="noopener noreferrer">Lijst van datatijdschriften (Zenodo)</a>
 
 
