@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Zoeken, vinden en beoordelen van onderzoeksdata"
+title: "Data Discovery and Evaluation"
 ---
 
 <!-- Page Title with Larger Logo -->
@@ -11,15 +11,14 @@ title: "Zoeken, vinden en beoordelen van onderzoeksdata"
 
 <!-- Intro Text -->
 <p>
-In deze workshop voor data stewards en beginnende onderzoekers leer je hoe je bestaande data vindt, beoordeelt en hergebruikt.
-We behandelen waar je datasets kunt vinden, hoe je de kwaliteit en herbruikbaarheid beoordeelt volgens de FAIR-principes en hoe je datasets correct citeert.
-Daarnaast bespreken we in welke fase van een onderzoek je op zoek gaat naar data en waarom.
+In this workshop for data stewards and early-career researchers, you will learn how to find, evaluate, and reuse existing data.
+We cover where to find datasets, how to assess their quality and reusability according to the FAIR principles, and how to properly cite datasets.
+We also discuss at which stage of the research process you should search for data, and why.
 </p>
 
 <p>
-Naast theoretische achtergrond ga je praktisch aan de slag met het zoeken naar datasets in repositories, het bekijken van gevonden data, metadata en datadocumentatie
-en het beoordelen van de compatibiliteit met verschillende Creative Commons-licenties.
-Na afloop kun je niet alleen beter onderbouwde keuzes maken over bestaande data, maar ook verantwoorden waarom je in sommige gevallen toch zelf data gaat verzamelen.
+In addition to theoretical background, you will work hands-on with searching for datasets in repositories, reviewing available data, metadata, and data documentation, and assessing compatibility with different Creative Commons licenses.
+After completing the workshop, you will not only be able to make better-informed decisions about using existing data, but also justify why in some cases you still choose to collect your own data.
 </p>
 
 <!-- Programma Table and Opdrachten Links Side by Side -->
