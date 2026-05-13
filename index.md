@@ -54,9 +54,9 @@ After completing the workshop, you will not only be able to make better-informed
   <div style="flex: 1;">
     <h2>Assignments</h2>
     <ul>
-      <li><a href="Opdracht1">Assignment 1</a></li>
-      <li><a href="Opdracht2">Assignment 2</a></li>
-      <li><a href="Opdracht3">Assignment 3</a></li>
+      <li><a href="Opdracht1">Exercise 1</a></li>
+      <li><a href="Opdracht2">Exercise 2</a></li>
+    
     </ul>
 
     <div style="margin-top: 1.5em;">
