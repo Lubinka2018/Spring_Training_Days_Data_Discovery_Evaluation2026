@@ -3,10 +3,8 @@ layout: default
 title: "Data Discovery and Evaluation"
 ---
 
-<!-- Page Title with Larger Logo -->
-<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 1.5em;">
-  <img src="/Onderzoeksdata-zoeken-vinden/assets/DCC_SPRING_logo_2025.jpg" alt="DCC Logo" style="height: 120px;">
-  <h1 style="margin: 0;">Data Discovery and Evaluation</h1>
+<!-- Page Title -->
+<h1 style="margin-bottom: 1.5em;">Data Discovery and Evaluation</h1>
 </div>
 
 <!-- Intro Text -->
