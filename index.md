@@ -5,7 +5,7 @@ title: "Data Discovery and Evaluation"
 
 <!-- Page Title -->
 <h1 style="margin-bottom: 1.5em;">Data Discovery and Evaluation</h1>
-</div>
+
 
 <!-- Intro Text -->
 <p>
