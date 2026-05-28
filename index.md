@@ -15,7 +15,7 @@ We also discuss at which stage of the research process you should search for dat
 </p>
 
 <p>
-In addition to theoretical background, you will work hands-on with searching for datasets in repositories, reviewing available data, metadata, and data documentation, and assessing compatibility with different Creative Commons licenses.
+In addition to the theoretical background, you will work hands-on with searching for datasets in repositories, reviewing available data, metadata, and data documentation, and assessing compatibility with different Creative Commons licenses.
 After completing the workshop, you will not only be able to make better-informed decisions about using existing data, but also justify why in some cases you still choose to collect your own data.
 </p>
 
