@@ -8,7 +8,7 @@
 - <a href="https://fairsharing.org/" target="_blank" rel="noopener noreferrer">FAIRsharing.org</a>
 
 ### General search engines
-- <a href="https://commons.datacite.org/" target="_blank" rel="noopener noreferrer">DataCite</a>
+- <a href="https://commons.datacite.org/" target="_blank" rel="noopener noreferrer">DataCite Commons</a>
 - <a href="https://datasetsearch.research.google.com/" target="_blank" rel="noopener noreferrer">Dataset Search</a>
 
 ### Subject-specific search engines (social sciences)
